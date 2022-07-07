@@ -12,4 +12,5 @@ Using a curated Kickstarter campaign dataset that includes fields such as succes
 
 Please refer to the following graph:
 
+![Theater Outcomes vs Launch](https://github.com/amitchub/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
